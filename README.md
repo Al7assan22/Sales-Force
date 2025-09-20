@@ -42,8 +42,6 @@ The process included **data cleaning, transformation, modeling, and visualizatio
 - Seasonal sales peaks highlighted opportunities for targeted campaigns.  
 
 
-## 📈 Dashboard Preview
-# 💼 LinkedIn Jobs Scraping & Analysis
 
 ## 📌 Project Overview
 This project focuses on analyzing the job market by scraping job postings directly from **LinkedIn** using Python.  
@@ -79,9 +77,7 @@ The collected data was cleaned, structured, and then visualized with **Power BI*
 - Highlighted top hiring companies and job locations  
 - Provided a clear overview of market demand for Data roles  
 
----
 
-## 📂 Project Structure
 
 
 ## 🚀 Future Improvements
