@@ -71,11 +71,6 @@ The collected data was cleaned, structured, and then visualized with **Power BI*
    - Highlighted most in-demand skills & trends across locations  
    - Provided insights into hiring demand  
 
----
-
-## 📈 Dashboard Preview
-![Dashboard](<img width="965" height="496" alt="image" src="https://github.com/user-attachments/assets/8062a5af-b132-4949-b3ab-15855f4bf398" />
-)
 
 ---
 
